@@ -1,6 +1,6 @@
 # ClearKey Encrypted Dashsample
 
-Clearkey enrypted
+Clearkey enrypted with FFMpeg and Bento4
 
 8c47fd6274869b14550dfb3421955bb4 == bBfXvkYYXanaQj9lnmG1aw
 
